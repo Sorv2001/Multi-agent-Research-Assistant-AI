@@ -44,15 +44,9 @@ The system follows a **multi-agent pipeline**:
 
 ## 🖥️ Demo
 
-![alt text](<Screenshot 2026-04-28 at 02-10-50 AI Research Assistant.png>)
 
-![alt text](<Screenshot 2026-04-28 at 02-32-54 AI Research Assistant.png>)
+<img width="1365" height="642" alt="Screenshot 2026-04-28 at 02-10-50 AI Research Assistant" src="https://github.com/user-attachments/assets/592dd90c-21d3-433a-ba1a-62a36e91a689" />
 
-![alt text](<Screenshot 2026-04-28 at 02-32-54 AI Research Assistant-1.png>)
-
-![alt text](<Screenshot 2026-04-28 at 02-33-05 AI Research Assistant.png>)
-
-![alt text](<Screenshot 2026-04-28 at 02-33-28 AI Research Assistant.png>)
 
 ---
 
