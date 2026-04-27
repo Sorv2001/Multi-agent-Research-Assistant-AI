@@ -47,6 +47,13 @@ The system follows a **multi-agent pipeline**:
 
 <img width="1365" height="642" alt="Screenshot 2026-04-28 at 02-10-50 AI Research Assistant" src="https://github.com/user-attachments/assets/592dd90c-21d3-433a-ba1a-62a36e91a689" />
 
+<img width="1365" height="642" alt="Screenshot 2026-04-28 at 02-12-04 AI Research Assistant" src="https://github.com/user-attachments/assets/8a05ba58-37c5-4016-8cef-e22335163cfd" />
+
+<img width="1365" height="642" alt="Screenshot 2026-04-28 at 02-32-54 AI Research Assistant" src="https://github.com/user-attachments/assets/f3e1ea66-32ff-4c61-8ff4-7adb719b023b" />
+
+<img width="1365" height="642" alt="Screenshot 2026-04-28 at 02-33-05 AI Research Assistant" src="https://github.com/user-attachments/assets/3069bad0-362b-49a4-906c-a12f97d954fa" />
+
+<img width="1365" height="642" alt="Screenshot 2026-04-28 at 02-33-28 AI Research Assistant" src="https://github.com/user-attachments/assets/4e9851cd-5f01-4c8e-b2fa-ba9e4aa3a980" />
 
 ---
 
